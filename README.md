@@ -1,6 +1,5 @@
  
  
- 
 <h2 align="center"> Hello! I’m @shPark728 (Seunghee, Park) 👋🏻 </h2>
  
 <h3 align="center"> 🪬 Skills 🪬 </h3>
