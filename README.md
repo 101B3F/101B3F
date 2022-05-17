@@ -2,9 +2,6 @@
  
  
 <h1 align="center"> Hello! I’m @shPark728 (Seunghee, Park) 👋🏻 </h1>
-
- 
-  
    
 
 <h3 align="center"> 🪬 Skills 🪬 </h3>
@@ -19,3 +16,9 @@
 ="https://img.shields.io/badge/GitLab-FC6D26.svg?&style=for-the-badge&logo=GitLab&logoColor=white"/> <img alt="Git" src
 ="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/>
 </p>
+ 
+ 
+ 
+<p align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FshPark728&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+ </p>
