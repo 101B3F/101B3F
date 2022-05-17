@@ -1,7 +1,7 @@
  
 <h3 align="center"> Hello! I’m @shPark728 (Seunghee, Park) 👋🏻 </h3>
  
-<h3 align="center"> 🪬 Stack 🪬 </h3>
+<h4 align="center"> 🪬 Stack 🪬 </h4>
 <p align="center">
 <img alt="Html" src 
 ="https://img.shields.io/badge/HTML-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white"/> <img alt="CSS3" src
