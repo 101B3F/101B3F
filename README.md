@@ -2,8 +2,7 @@
  
  
 <h1 align="center"> Hello! I’m @shPark728 (Seunghee, Park) 👋🏻 </h1>
-   
-
+ 
 <h3 align="center"> 🪬 Skills 🪬 </h3>
 <p align="center">
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=Java&logoColor=white"/> <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=flate&logo=C++&logoColor=white"/> <img alt="Html" src 
