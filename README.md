@@ -1,5 +1,4 @@
  <h3 align="center"> Hello! I’m @shPark728 (Seunghee, Park) 👋🏻 </h3>
-<br/>
 <h4 align="center"> 🪬 Stack 🪬 </h4>
 <p align="center">
 <img alt="Html" src 
