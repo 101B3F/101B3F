@@ -1,11 +1,14 @@
+ 
+ 
+ 
 <h1 align="center"> Hello! I’m @shPark728 (Seunghee, Park) 👋🏻 </h1>
 
-<!---
-shPark728/shPark728 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ 
+  
+   
 
 <h3 align="center"> 🪬 Skills 🪬 </h3>
+ 
 <p align="center">
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/> <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white"/> <img alt="Html" src 
 ="https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="CSS3" src
