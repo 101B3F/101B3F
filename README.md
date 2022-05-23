@@ -1,5 +1,5 @@
  <h3 align="center"> Hello! I’m [@shPark728](https://shPark728.github.io/) (Seunghee, Park) 👋🏻 </h3>
-<h4 align="center"> 🪬 Stack 🪬 </h4>
+<!-- <h4 align="center"> 🪬 Stack 🪬 </h4>
 <p align="center">
 <img alt="Html" src 
 ="https://img.shields.io/badge/HTML-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white"/> <img alt="CSS3" src
@@ -11,7 +11,7 @@
 ="https://img.shields.io/badge/GitHub-181717.svg?&style=flat-square&logo=GitHub&logoColor=white"/> <img alt="GitLab" src
 ="https://img.shields.io/badge/GitLab-FC6D26.svg?&style=flat-square&logo=GitLab&logoColor=white"/> <img alt="Git" src
 ="https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white"/>
-</p>
+</p> -->
  
  
  
