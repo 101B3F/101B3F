@@ -10,8 +10,8 @@
 </summary>
 <h4 align="center"> 🪬 Stack 🪬 </h4>
 <p align="center">
-<img alt="Html" src 
-="https://img.shields.io/badge/HTML-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white"/> <img alt="CSS3" src
+<img alt="react" src 
+="https://img.shields.io/badge/react-61DAFB.svg?&style=flat-square&logo=react&logoColor=white"/> <img alt="CSS3" src
 ="https://img.shields.io/badge/CSS3-FF9933.svg?&style=flat-square&logo=CSS3&logoColor=white"/> <img alt="JavaScript" src
 ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white"/> <img alt="]Query" src
 ="https://img.shields.io/badge/]Query-31A8FF.svg?&style=flat-square&logo=]Query&logoColor=white"/> <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white"/> <img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=flate-square&logo=C++&logoColor=white"/> <img alt="MySQL" src
