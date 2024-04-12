@@ -1,5 +1,14 @@
  <h3 align="center"> Hello! I’m F0F8FF 👋🏻 </h3>
-<!-- <h4 align="center"> 🪬 Stack 🪬 </h4>
+<br/>
+<p align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FshPark728&count_bg=%23B795FF&title_bg=%23404040&icon=ghostery.svg&icon_color=%23F2F2F2&title=Visitor&edge_flat=false"/></a>
+ </p>
+
+<details>
+<summary>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 내가 지금 배우는 ... 
+</summary>
+<h4 align="center"> 🪬 Stack 🪬 </h4>
 <p align="center">
 <img alt="Html" src 
 ="https://img.shields.io/badge/HTML-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white"/> <img alt="CSS3" src
@@ -11,10 +20,6 @@
 ="https://img.shields.io/badge/GitHub-181717.svg?&style=flat-square&logo=GitHub&logoColor=white"/> <img alt="GitLab" src
 ="https://img.shields.io/badge/GitLab-FC6D26.svg?&style=flat-square&logo=GitLab&logoColor=white"/> <img alt="Git" src
 ="https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white"/>
-</p> -->
-<br/>
-<p align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FshPark728&count_bg=%23B795FF&title_bg=%23404040&icon=ghostery.svg&icon_color=%23F2F2F2&title=Visitor&edge_flat=false"/></a>
- </p>
-
+</p>
+</details>
 
