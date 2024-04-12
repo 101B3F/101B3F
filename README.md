@@ -12,8 +12,7 @@
 <p align="center">
 <img alt="React" src 
 ="https://img.shields.io/badge/React-61DAFB.svg?&style=flat-square&logo=react&logoColor=white"/> <img alt="JavaScript" src
-="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white"/> <img alt="]Query" src
-="https://img.shields.io/badge/]Query-31A8FF.svg?&style=flat-square&logo=]Query&logoColor=white"/> 
+="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white"/>
  <br/>
  <img alt="Java" src 
 ="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=java&logoColor=white"/> <img alt="C++" src 
