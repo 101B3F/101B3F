@@ -24,8 +24,8 @@
 ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white"/> 
  <br/>
  <img alt="Spring" src
-="https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat-square&logo=Spring&logoColor=white"/> <img alt="GitHub" src
-="https://img.shields.io/badge/GitHub-181717.svg?&style=flat-square&logo=GitHub&logoColor=white"/> <img alt="GitLab" src
+="https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat-square&logo=Spring&logoColor=white"/> <img alt="DBeaver" src
+="https://img.shields.io/badge/DBeaver-382923.svg?&style=flat-square&logo=DBeaver&logoColor=white"/> <img alt="GitLab" src
 ="https://img.shields.io/badge/GitLab-FC6D26.svg?&style=flat-square&logo=GitLab&logoColor=white"/> <img alt="Git" src
 ="https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white"/> <img alt="Linux" src
 ="https://img.shields.io/badge/Linux-FCC624.svg?&style=flat-square&logo=linux&logoColor=white"/> <img alt="VMware" src
