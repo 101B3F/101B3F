@@ -31,7 +31,7 @@
 ="https://img.shields.io/badge/VMware-607078.svg?&style=flat-square&logo=VMware&logoColor=white"/> -->
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=React,JavaScript,Java,C++,Python,mariadb,MySQL,Spring,DBeaver,git,Linux,VMware" />
+    <img src="https://skillicons.dev/icons?i=react,javaScript,java,c++,python,mariadb,mysql,spring,dbeaver,git,linux,vmware" />
 </a>
  
 </p>
