@@ -10,7 +10,7 @@
 </summary>
 <h4 align="center"> 🪬 Stack 🪬 </h4>
 <p align="center">
-<img alt="React" src 
+<!-- <img alt="React" src 
 ="https://img.shields.io/badge/React-61DAFB.svg?&style=flat-square&logo=react&logoColor=white"/> <img alt="JavaScript" src
 ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white"/>
  <br/>
@@ -25,11 +25,15 @@
  <br/>
  <img alt="Spring" src
 ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat-square&logo=Spring&logoColor=white"/> <img alt="DBeaver" src
-="https://img.shields.io/badge/DBeaver-382923.svg?&style=flat-square&logo=DBeaver&logoColor=white"/> <!-- <img alt="GitLab" src
-="https://img.shields.io/badge/GitLab-FC6D26.svg?&style=flat-square&logo=GitLab&logoColor=white"/> --> <img alt="Git" src
+="https://img.shields.io/badge/DBeaver-382923.svg?&style=flat-square&logo=DBeaver&logoColor=white"/> <img alt="Git" src
 ="https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white"/> <img alt="Linux" src
-="https://img.shields.io/badge/Linux-FCC624.svg?&style=flat-square&logo=linux&logoColor=white"/> <!-- <img alt="VMware" src
+="https://img.shields.io/badge/Linux-FCC624.svg?&style=flat-square&logo=linux&logoColor=white"/> <img alt="VMware" src
 ="https://img.shields.io/badge/VMware-607078.svg?&style=flat-square&logo=VMware&logoColor=white"/> -->
+
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=React,JavaScript,Java,C++,Python,mariadb,MySQL,Spring,DBeaver,git,Linux,VMware" />
+</a>
+ 
 </p>
 </details>
 
